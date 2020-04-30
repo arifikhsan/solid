@@ -1,0 +1,1 @@
+Bentuk hubungan kedua yaitu komposisi, sebuah hubungan dapat dikatakan komposisi jika sebuah kelas “memiliki” class lainnya. Aturan yang berlaku untuk hubungan ini adalah ketika kelas yang “memiliki” class lainnya dihancurkan maka class yang “dimiliki” oleh kelas tersebut akan hancur juga atau tidak dapat digunakan.

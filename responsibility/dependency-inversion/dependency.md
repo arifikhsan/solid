@@ -1,0 +1,1 @@
+Pada prinsip Dependency Inversion terdapat dua pernyataan atau aturan yang perlu kita ketahui, yang pertama adalah **high-level module tidak diperbolehkan untuk bergantung pada low-level module**. Keduanya harus bergantung pada abstraction. Pernyataan yang kedua, **abstraksi tidak diperbolehkan untuk bergantung pada detail**. Detail harus bergantung pada abstraksi. 
